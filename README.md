@@ -2,6 +2,7 @@
 DBMS project
 
 Pafamiliarize nalang ng structure ng project
+Go to this path: KitchenVault_Project/src/main/java/dbms/project/kitchenvault_project
 
 Progress:
   delivery in --- /
